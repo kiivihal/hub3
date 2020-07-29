@@ -1,4 +1,6 @@
 # Hub3 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkiivihal%2Fhub3.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkiivihal%2Fhub3?ref=badge_shield)
+
 
 Hub3 is an RDF publication and discovery platform written in Golang. Before the 1.0 release packages that can be of individual use will be split into stand-alone packages.
 
@@ -63,3 +65,6 @@ Licensed under [Apache 2.0](./License)
 
 
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkiivihal%2Fhub3.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkiivihal%2Fhub3?ref=badge_large)
